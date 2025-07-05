@@ -1,16 +1,25 @@
-## Hi there 👋
+# Carlos Egea - Data Science Student
 
-<!--
-**carlose-data/carlose-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m Carlos, a Data Science student at UPCT.  
+I am currently learning and developing skills in data analysis, machine learning, and Python programming.
 
-Here are some ideas to get you started:
+## 🚀 Currently
+- Working on personal projects to practice and improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills  
+- Python | Pandas | NumPy | Matplotlib  
+- SQL  
+- Basic Machine Learning  
+- Data Visualization  
+
+## 📂 Projects  
+This section will showcase my coursework and personal projects as I grow in my data science journey.
+
+## 📫 Contact  
+- Email: carlosegea.data@outlook.com  
+
+
+---
+
+Thanks for visiting my profile!
+
