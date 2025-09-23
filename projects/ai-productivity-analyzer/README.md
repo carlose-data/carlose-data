@@ -90,4 +90,4 @@ Adopción Rate: % empleados usando IA
 **Carlos Egea Jiménez**
 - LinkedIn: https://linkedin.com/in/carlos-egea-jimenez
 - Email: kalicosegea@gmail.com
-- GitHub: https://github.com/carlosedata
+- GitHub: https://github.com/carlose-data
