@@ -88,6 +88,6 @@ Adopción Rate: % empleados usando IA
 ## 👨‍💻 Autor
 
 **Carlos Egea Jiménez**
-- LinkedIn: https://linkedin.com/in/carlos-egea-jimenez
+- LinkedIn: https://www.linkedin.com/in/carlos-egea-jiménez-557046374
 - Email: kalicosegea@gmail.com
 - GitHub: https://github.com/carlose-data
