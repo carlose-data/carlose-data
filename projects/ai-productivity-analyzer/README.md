@@ -87,7 +87,7 @@ Adopción Rate: % empleados usando IA
 
 ## 📄 Licencia
 
-Distribuido bajo la licencia MIT. Ver [`LICENSE`](LICENSE) para más información.
+Distribuido bajo la licencia MIT. Ver [LICENSE](./LICENSE) para más información.
 
 ## 👨‍💻 Autor
 
