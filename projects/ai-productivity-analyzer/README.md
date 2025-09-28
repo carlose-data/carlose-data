@@ -85,6 +85,10 @@ Adopción Rate: % empleados usando IA
 
 ⭐ Si este proyecto te resultó útil, ¡dale una estrella en GitHub!
 
+## 📄 Licencia
+
+Distribuido bajo la licencia MIT. Ver [`LICENSE`](LICENSE) para más información.
+
 ## 👨‍💻 Autor
 
 **Carlos Egea Jiménez**
