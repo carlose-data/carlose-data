@@ -87,9 +87,7 @@ Adopción Rate: % empleados usando IA
 
 ## 📄 Licencia
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` en este repositorio para más detalles.
 
 ## 👨‍💻 Autor
 
