@@ -87,8 +87,9 @@ Adopción Rate: % empleados usando IA
 
 ## 📄 Licencia
 
-Distribuido bajo la licencia MIT. Ver [LICENSE](https://github.com/carlose-data/carlose-data/blob/main/projects/ai-productivity-analyzer/LICENSE) para más información.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+Este proyecto está bajo la licencia MIT.
 
 ## 👨‍💻 Autor
 
